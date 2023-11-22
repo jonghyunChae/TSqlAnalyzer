@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "33S9PHg8hNjhTkJPvBR84BzGZiAkbepRtu5hIQ84yo7su+lpn2eJo6Ri/iQcYaFOy/gM6aTiwYyoSpyv5pX4vQ==",
+  "success": true,
+  "projectFilePath": "C:\\git\\TSqlAnalyzer\\TSqlAnalyzer\\TSqlAnalyzer\\TSqlAnalyzer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.sqlserver.transactsql.scriptdom\\161.8910.0\\microsoft.sqlserver.transactsql.scriptdom.161.8910.0.nupkg.sha512"
+  ],
+  "logs": []
+}
